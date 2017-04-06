@@ -1,3 +1,2 @@
 # readdata
-test repo
-My test file.
+Python code(s) to process lammps output files.
