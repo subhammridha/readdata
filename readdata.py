@@ -4,6 +4,7 @@ def readfile(filepath):
     (str) -> class
     function to read lammps output files
     >>> contents = readfile('data.somefile')
+    That's all
     """
     # try statement in python jumps to except when specified error occurs and \
     # then jumps back to try to continue the rest until another error occurs
